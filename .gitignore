@@ -1,0 +1,7 @@
+smart-contract/node_modules
+smart-contract/deployments
+smart-contract/artifacts
+smart-contract/cache
+smart-contract/metadata/rinkeby/ipfs
+smart-contract/metadata/rinkeby/pinata
+
